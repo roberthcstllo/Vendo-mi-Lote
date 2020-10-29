@@ -1,0 +1,20 @@
+.Horarios {
+    background-color: #E6E6E6
+}
+
+.day {
+    text-align: center;
+    font-size: 150%;
+    font-family: 'Francois One', sans-serif;
+    color: #05034C;
+    margin-top: 3%;
+}
+
+.hour {
+    text-align: center;
+    font-size: 110%;
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    margin-top: 3%;
+    line-height: 100%;
+}

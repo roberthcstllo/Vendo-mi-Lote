@@ -1,0 +1,26 @@
+.FormularioP {
+   background-color:#E6E6E6;
+}
+
+.Formulario {
+   background-color:#E6E6E6;
+}
+
+
+
+.Cform {
+    font-size: 250%;
+    font-family: 'Francois One', sans-serif;
+    color: #05034C;
+    margin-top: 2%;
+}
+
+
+@media screen and (max-width:1250px )  {
+    
+  .Cform {
+    font-size: 190%;
+    margin-top: 10%;
+}  
+    
+}

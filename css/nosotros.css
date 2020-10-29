@@ -1,0 +1,83 @@
+.Nosotros {
+    background-color: #05034C;
+    margin-top: 10%;
+}  
+
+.nosotrostitle {
+    font-size: 200%;
+    font-family: 'Francois One', sans-serif;
+    color: white;
+    margin-top: 15%;
+    margin-left: 10%;
+}
+
+.iconus {
+    width: 40%;
+    margin-left: 35%;
+}
+
+.textus {
+    font-size: 130%;
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    margin-top: 2%;
+    margin-bottom: 15%;
+    line-height: 130%;
+}
+
+
+
+@media (min-width: 300px) and (max-width: 600px) {
+    
+    .iconus {
+    width: 80%;
+    margin-top: 40%;
+     margin-left: 15%;
+}
+
+.textus {
+    font-size: 100%;
+    margin-top: 8%;
+    margin-left: 5%;
+    line-height: 130%;
+}
+    
+    
+    
+}
+
+@media (min-width: 600px) and (max-width: 800px) {
+        .iconus {
+    width: 80%;
+    margin-top: 40%;
+     margin-left: 15%;
+}
+}
+
+@media (min-width: 600px) and (max-width: 800px) {
+    
+     .iconus {
+    width: 80%;
+    margin-top: 25%;
+     margin-left: 15%;
+}
+}
+
+@media (min-width: 800px) and (max-width: 1100px) {
+    .iconus {
+    width: 60%;
+    margin-top: 5%;
+     margin-left: 15%;
+}
+}
+
+@media (min-width: 1100px) and (max-width: 1600px) {
+    .iconus {
+    width: 40%;
+    margin-top: 10%;
+     margin-left: 15%;
+}
+}
+
+
+    

@@ -1,0 +1,56 @@
+
+.sections {
+    font-size: 280%;
+    font-family: 'Francois One', sans-serif;
+    color: #05034C;
+    margin-top: 15%;
+    margin-bottom: 4%;
+    
+} 
+
+
+.zone {
+    font-family: 'Raleway', sans-serif; 
+    font-size: 130%;
+    margin-top: 10%; 
+    margin-left: -20%;
+}
+
+.glyphicon-map-marker {
+    font-size: 120%;
+    margin-top: 55%;
+}
+
+
+
+@media (min-width: 500px) and (max-width: 600px) {
+    
+  .sections {
+    font-size: 200%;
+    margin-top: 20%;
+} 
+    
+    
+.zone {
+    font-family: 'Raleway', sans-serif; 
+    font-size: 130%;
+    margin-top: 20%; 
+    margin-left: -15%;
+}
+
+.glyphicon-map-marker {
+    font-size: 130%;
+    margin-top: 250%;
+}
+    
+}
+
+@media (min-width: 600px) and (max-width: 1300px) {
+    .glyphicon-map-marker {
+    font-size: 0%;
+    margin-top: 100%;
+}
+}
+
+
+

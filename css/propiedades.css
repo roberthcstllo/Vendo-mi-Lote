@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Francois+One&display=swap');
+
+
+ul {
+    list-style: none;
+}
+.BP {
+    background-color: #E6E6E6;
+     box-shadow: 3px 4px 5px 2px rgba(0, 0, 0, 0.15);
+    margin-top: 5%;
+}
+.picpro{
+    width: 100%
+}
+
+.price {
+    font-size: 160%;
+    font-family: 'Francois One', sans-serif;
+    color: #D4145A;
+    margin-top: 8%;
+    margin-left: 5%;
+    line-height: 115%;
+}
+
+.tittle {
+    font-size: 120%;
+    font-family: 'Raleway', sans-serif;
+    margin-left: 5%;
+    line-height: 115%;
+}
+
+.location{
+    font-size: 90%;
+    font-family: 'Raleway', sans-serif;
+    margin-left: 5%;
+    line-height: 115%;
+}
+
+.contac{
+   font-size: 130%;
+    font-family: 'Francois One', sans-serif;
+    color: #05034C;
+    margin-top: -3%;
+    margin-left: 5%;
+}

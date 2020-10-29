@@ -1,0 +1,48 @@
+
+.barrafootter {
+   background-color: #05034C; 
+ 
+}  
+
+
+.LogoFotter {
+        margin-left: 25%;
+        margin-top: 15%;
+        margin-bottom: 15%;
+        width: 50%
+    }
+
+.financiados {
+    width: 100%;
+    margin-top: 5%;
+}
+
+
+@media (min-width: 300px) and (max-width: 800px) {
+    
+    .LogoFotter {
+        margin-left: 0%;
+        margin-top: 15%;
+        margin-bottom: 15%;
+        width: 100%;
+    }
+    
+    .barrafootter {
+   background-color: #05034C; 
+} 
+    
+}
+
+@media (min-width: 800px) and (max-width: 1250px) {
+    
+    .LogoFotter {
+        margin-left: 25%;
+        margin-top: 10%;
+        margin-bottom: 10%;
+        width: 50%
+    }
+}
+
+
+
+ 

@@ -1,0 +1,25 @@
+
+.carrucelweb {
+   margin-top: -1%; 
+}
+
+
+.carrucelMobile {
+    display: none;
+}
+
+
+@media screen and (max-width:1250px ) {
+   
+    .carrucelweb {
+    display: none;
+}
+    
+    
+  .carrucelMobile {
+    display: block;
+    margin-top: -1%;
+}  
+    
+    
+}

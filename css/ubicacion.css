@@ -1,0 +1,29 @@
+    .direction {
+    font-size: 180%;
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    margin-left: 0%;
+    line-height: 130%;
+}
+
+.bu {
+    margin-left: 50%;
+}
+
+
+
+@media screen and (max-width:1250px ) {
+    .direction {
+    font-size: 120%;
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    margin-top: 4%;
+    margin-left: 3%;
+    line-height: 130%;
+}
+
+.bu {
+    margin-left: 25%;
+}
+    
+}

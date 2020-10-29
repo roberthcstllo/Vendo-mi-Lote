@@ -1,0 +1,23 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+ 
+ .parallax-window {
+    min-height: 300px;
+    background: transparent;
+}
+
+
+@media screen and (max-width:800px) {
+    
+     .parallax-window {
+    min-height: 700px;
+    background: transparent;
+}
+    
+    .parallax-window2 {
+    min-height: 100px;
+    background: transparent;
+}
+    }
