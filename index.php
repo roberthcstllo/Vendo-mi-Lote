@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html LANG="en">
+<html LANG="es">
 
     <head>
     <!-- Google Tag Manager -->
